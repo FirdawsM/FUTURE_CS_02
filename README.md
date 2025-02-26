@@ -35,3 +35,12 @@ The **Password Strength Analyzer Tool** is a Python-based application designed t
    ```bash
    git clone https://github.com/FirdawsM/FUTURE_CS_02.git
 
+Navigate to the Project Directory:
+ `
+    cd FUTURE_CS_02 `
+
+Run Application:
+
+``` bash
+
+python src/main.py
