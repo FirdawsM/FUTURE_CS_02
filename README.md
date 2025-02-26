@@ -1,7 +1,7 @@
 # FUTURE_CS_02 - Password Strength Analyzer Tool
 
 ## Overview
-The **Password Strength Analyzer Tool** is a Python-based application designed to assess the strength of user passwords, provide real-time improvement feedback, and enhance security by hashing passwords using SHA-256. Featuring a user-friendly graphical interface built with tkinter, this tool is ideal for both everyday users and aspiring cybersecurity professionals.
+The **Password Strength Analyzer Tool** is a Python-based application designed to assess the strength of user passwords, provide real-time improvement feedback, and enhance security by hashing passwords using SHA-256. Featuring a user-friendly graphical interface built with tkinter, this tool is ideal for both everyday users and professionals.
 
 ## Features
 - **Password Evaluation:** Checks for:
